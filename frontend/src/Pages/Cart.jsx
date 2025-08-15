@@ -205,7 +205,7 @@ export default function Cart() {
         price: 249
     }
   ];
-
+  //ok
   const [cartItems, setCartItems] = useState([]);
 
   useEffect(() => {
